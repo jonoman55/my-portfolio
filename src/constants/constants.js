@@ -13,8 +13,8 @@ export const projects = [
     description: 'Search for your favorite Pokémon.',
     image: '/images/2.jpg',
     tags: ['React', 'Material-UI', 'API'],
-    source: 'https://jc-online-pokedex.netlify.app',
-    visit: 'https://github.com/jonoman55/online-pokedex',
+    source: 'https://jc-mui-online-pokedex.netlify.app/',
+    visit: 'https://github.com/jonoman55/material-ui-pokedex',
     id: 1,
   },
   {
