@@ -18,12 +18,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Breaking Bad Cast',
-    description: 'Search for your favorite Breaking Bad Cast members.',
-    image: '/images/3.jpg',
-    tags: ['React', 'Bootstrap', 'FontAwesome', 'API'],
-    source: 'https://jc-breaking-bad-cast.netlify.app',
-    visit: 'https://github.com/jonoman55/breaking-bad-cast',
+    title: 'Cryptoverse',
+    description: 'Check the latest Cryptocurrency data, news, and more.',
+    image: '/images/8.jpg',
+    tags: ['React', 'Redux','Ant Design', 'API'],
+    source: 'https://jc-cryptoverse.netlify.app',
+    visit: 'https://github.com/jonoman55/cryptoverse',
     id: 2,
   },
   {
