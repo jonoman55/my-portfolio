@@ -18,7 +18,7 @@ export const GridContainer = styled.section`
     display: flex;
     flex-direction: column;
     padding: 2rem;
-    padding-bottom: 0;
+    padding-bottom: -1px;
   }
 `;
 
@@ -73,7 +73,7 @@ export const CardInfo = styled.p`
   line-height: 24px;
   text-align: justify;
   @media ${(props) => props.theme.breakpoints.sm} {
-    padding:.3rem
+    padding: 2rem
 }
 `;
 
