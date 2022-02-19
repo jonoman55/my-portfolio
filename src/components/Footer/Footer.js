@@ -29,10 +29,10 @@ const Footer = () => {
           <SocialIcons href='https://www.linkedin.com/in/john-chiappetta-ab4091143/' target='_blank'>
             <AiFillLinkedin size='3rem' />
           </SocialIcons>
-          <SocialIcons href='https://twitter.com/johnch1p/' target='_blank'>
+          <SocialIcons href='https://www.instagram.com/johnch1p/' target='_blank'>
             <AiFillInstagram size='3rem' />
           </SocialIcons>
-          <SocialIcons href='https://www.instagram.com/johnch1p/' target='_blank'>
+          <SocialIcons href='https://twitter.com/johnch1p/' target='_blank'>
             <AiFillTwitterCircle size='3rem' />
           </SocialIcons>
           <SocialIcons href='https://www.facebook.com/johnchip1255/' target='_blank'>
